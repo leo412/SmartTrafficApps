@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982162045291",
+    "firebase_url": "https://smarttrafficapps.firebaseio.com",
+    "project_id": "smarttrafficapps",
+    "storage_bucket": "smarttrafficapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982162045291:android:4afc96efe673ec63",
+        "android_client_info": {
+          "package_name": "com.example.user.smarttrafficapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982162045291-h6m55hali49a7q68chmhjo9c3a1uo3dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.smarttrafficapps",
+            "certificate_hash": "D477AB16A4BC8B0AEE8FD41B47392A81BFC33525"
+          }
+        },
+        {
+          "client_id": "982162045291-qb7fv08d3oimubssdk30v1v84rt5dft4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtNarBwSVczroVf62WqT_DV56pNPIutRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982162045291-qb7fv08d3oimubssdk30v1v84rt5dft4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
